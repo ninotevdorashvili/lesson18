@@ -1,0 +1,15 @@
+.container {
+    width: 1125px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.block2 {
+    width: 300px;
+    height: 350px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
